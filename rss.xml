@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[extended breakfast]]></title>
+        <description><![CDATA[extended breakfast]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 05 Jun 2016 12:35:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Underfoot]]></title>
+            <description><![CDATA[<article><h1>Underfoot</h1><p>I went for a walk in Morden Hall Park today as the weather was perfect. For those who don't know, it's in south London at the end of the Northern Line, and is a beautiful place. Underfoot were some amazing colours; the pink, yellow and greens just looked too lovely not to capture. I love walking outdoors with camera in hand, just taking in the natural beauty, getting away from the city, and reminding myself that there are incredible things out when we venture out. Look up, look down, look everywhere, absorb, breathe in, breathe out, enjoy, and love everything.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/460cd3bf53f6f2eb96e3e557b605c5dad5cdc574.jpg"></article>]]></description>
+            <link>https://500px.com/photo/155897135/underfoot-by-elliot-richards?utm_medium=twitter&amp;utm_campaign=nativeshare&amp;utm_content=web&amp;utm_source=500px</link>
+            <guid isPermaLink="false">c74461ab-09d0-45d5-a88f-3c743322eab5</guid>
+            <pubDate>Sun, 05 Jun 2016 11:33:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
