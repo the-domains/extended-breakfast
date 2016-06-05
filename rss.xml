@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[extended breakfast]]></title>
         <description><![CDATA[extended breakfast]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/extended-breakfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:35:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 14:55:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/extended-breakfast/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ferrari 458 MM Speciale]]></title>
+            <description><![CDATA[<article><h1>Ferrari 458 MM Speciale</h1><p>Created for a British customer with very specific tastes, this Ferrari 458 MM Speciale is a one-of-a-kind example of Italian engineering. The glasshouse is extended with black A pillars to give it a visor-like look, changes that led to an...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4334c87d5f2b3d70a565a8807f6f284600892af.jpg"></article>]]></description>
+            <link>http://uncrate.com/stuff/ferrari-458-mm-speciale/?mc_cid=b7de1787b7&amp;mc_eid=db99c988ce#share-fb-128717</link>
+            <guid isPermaLink="false">1350fb31-4a04-4c61-8159-4f26ce143383</guid>
+            <pubDate>Sun, 05 Jun 2016 14:55:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Underfoot]]></title>
             <description><![CDATA[<article><h1>Underfoot</h1><p>I went for a walk in Morden Hall Park today as the weather was perfect. For those who don't know, it's in south London at the end of the Northern Line, and is a beautiful place. Underfoot were some amazing colours; the pink, yellow and greens just looked too lovely not to capture. I love walking outdoors with camera in hand, just taking in the natural beauty, getting away from the city, and reminding myself that there are incredible things out when we venture out. Look up, look down, look everywhere, absorb, breathe in, breathe out, enjoy, and love everything.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/460cd3bf53f6f2eb96e3e557b605c5dad5cdc574.jpg"></article>]]></description>
