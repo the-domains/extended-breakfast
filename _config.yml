@@ -1,17 +1,29 @@
-layout_spectrum: 0.5202003468293697
-typography_spectrum: 0.13199742883443832
+author:
+  name: Elliot
+  email: elliot.a.richards@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1319974288344383
 color:
+  saturation: 1
   brandStrength: 0.8962363668251783
-  lightness: 0.9726109001785517
-  saturation: 0.4134041795041412
-  rhythmicContrast: 0.7093637939542532
+  lightness: 1
   brandColors:
     - '#2B3A42'
     - '#3F5765'
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+  rhythmicContrast: 1
+layout_spectrum: 0.5202003468293697
 name: extended breakfast
-author:
-  name: Elliot
-  email: elliot.a.richards@gmail.com
