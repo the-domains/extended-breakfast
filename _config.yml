@@ -13,7 +13,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1319974288344383
 color:
   saturation: 1
   brandStrength: 0.8962363668251783
@@ -25,5 +24,6 @@ color:
     - '#EFEFEF'
     - '#FF530D'
   rhythmicContrast: 1
-layout_spectrum: 0.5202003468293697
+typography_spectrum: 0.1319974288344383
+layout_spectrum: 0.7610097
 name: extended breakfast
