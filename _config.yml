@@ -7,23 +7,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.1319974288344383
 color:
   saturation: 1
   brandStrength: 0.8962363668251783
-  lightness: 1
+  lightness: 0.5075188
   brandColors:
     - '#2B3A42'
     - '#3F5765'
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
-  rhythmicContrast: 1
-typography_spectrum: 0.1319974288344383
+  rhythmicContrast: 0.4967777
 layout_spectrum: 0.7610097
 name: extended breakfast
