@@ -13,17 +13,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1319974288344383
+typography_spectrum: 0.017413100693374872
 color:
-  saturation: 1
-  brandStrength: 0.8962363668251783
-  lightness: 0.5075188
+  saturation: 0.1247131316922605
+  brandStrength: 0.1254203710705042
+  lightness: 0.18292687041684985
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
-  rhythmicContrast: 0.4967777
-layout_spectrum: 0.7610097
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.573128059040755
+layout_spectrum: 0.7927382125053555
 name: i eat robots
