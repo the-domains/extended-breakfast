@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-25T12:27:11.483Z'
+datePublished: '2016-06-25T13:25:50.599Z'
 sourcePath: >-
   _posts/2016-06-25-how-this-mattress-retailer-went-from-clicks-to-bricks-with-a.md
 isBasedOnUrl: >-
@@ -17,7 +17,7 @@ keywords:
   - artists
 related: []
 author: []
-dateModified: '2016-06-25T12:27:03.748Z'
+dateModified: '2016-06-25T13:25:37.644Z'
 title: The mattress company that gives back
 app_links: []
 publisher:
@@ -27,7 +27,7 @@ publisher:
   domain: www.shopify.com
 description: >-
   I'm a huge Shopify fan. I don't sell on it (well not yet anyway), but I do
-  follow it's blog as it's just jam packed with great stories and information.
+  follow its blog as it's just jam packed with great stories and information.
   This one came through recently and upon reading it I loved the social giving
   back program, it's hugely inspiring!
 inLanguage: en
@@ -41,4 +41,4 @@ _type: MediaObject
 ---
 # The mattress company that gives back
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fa9a1b4f3acada4d5016b01cd238791/noop.jpg?input=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1246%2F6441%2Ffiles%2FUntitled_design_1_3f813e73-fb07-4d8e-a6d8-c5ed2d2addb1.jpg%3F8550954833186091547" /><p>I'm a huge Shopify fan. I don't sell on it (well not yet anyway), but I do follow it's blog as it's just jam packed with great stories and information. This one came through recently and upon reading it I loved the social giving back program, it's hugely inspiring!</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fa9a1b4f3acada4d5016b01cd238791/noop.jpg?input=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1246%2F6441%2Ffiles%2FUntitled_design_1_3f813e73-fb07-4d8e-a6d8-c5ed2d2addb1.jpg%3F8550954833186091547" /><p>I'm a huge Shopify fan. I don't sell on it (well not yet anyway), but I do follow its blog as it's just jam packed with great stories and information. This one came through recently and upon reading it I loved the social giving back program, it's hugely inspiring!</p></article>
