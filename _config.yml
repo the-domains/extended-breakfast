@@ -15,15 +15,15 @@ collections:
       number: 10
 typography_spectrum: 0.01741310069337487
 color:
-  saturation: 0.1247131316922605
+  saturation: 0.829753
   brandStrength: 1
-  lightness: 0.1829268704168499
+  lightness: 0.9350161
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  rhythmicContrast: 0.573128059040755
-layout_spectrum: 0.7927382125053555
+  rhythmicContrast: 0
+layout_spectrum: 0.1734694
 name: i eat robots
