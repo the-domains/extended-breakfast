@@ -1,14 +1,14 @@
 ---
 description: >-
   I tested about 4 months back; my IQ was 150. My Myers Briggs Test Type (MBTI)
-  is INTJand I am 17 years old. 
-dateModified: '2016-07-02T11:43:27.923Z'
-datePublished: '2016-07-02T13:02:28.960Z'
+  is INTJand I am 17 years old.
+dateModified: '2016-07-02T13:02:31.630Z'
+datePublished: '2016-07-02T13:02:32.069Z'
 title: ''
 author: []
 isBasedOnUrl: 'https://www.quora.com/How-do-people-with-IQs-of-140-200-think'
 sourcePath: _posts/2016-07-02-how-do-people-with-iqs-of-140-200-think.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
