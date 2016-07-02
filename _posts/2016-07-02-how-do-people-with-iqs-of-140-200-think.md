@@ -1,13 +1,13 @@
 ---
 title: How do people with IQs of 140-200 think?
-datePublished: '2016-07-02T08:02:01.367Z'
-dateModified: '2016-07-02T08:01:06.061Z'
+datePublished: '2016-07-02T08:19:12.027Z'
+dateModified: '2016-07-02T08:19:11.081Z'
 author: []
 description: >-
   There’s an interesting piece from a contributor on Quora, which I really
   enjoyed reading, as he reminds me of myself...
-starred: false
 sourcePath: _posts/2016-07-02-how-do-people-with-iqs-of-140-200-think.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
